@@ -1,0 +1,26 @@
+{
+  "name": "linqjs",
+  "version": "1.0.0",
+  "description": "Uso de arrow functions de EcmaScript 6",
+  "readmeFilename": "README.md",
+  "main": "linqjs.js",
+  "keywords": [
+    "linq",
+    "arrow",
+    "es6"
+  ],
+  "tags": [
+    "linq",
+    "es6"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMaritan/LinqJs.git"
+  },
+  "author": "Gustavo Maritan <gustavomaritan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMaritan/LinqJs/issues"
+  },
+  "homepage": "https://github.com/GustavoMaritan/LinqJs#readme"
+}
